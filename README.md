@@ -1,2 +1,23 @@
-# FUTURE_ML_01
-Sales &amp; Demand Forecasting for Businesses using Machine Learning. Built a sales prediction model using historical Superstore data with data preprocessing, feature engineering, visualization, and business insights.
+# Sales & Demand Forecasting for Businesses
+
+This project was developed as part of the Future Interns Machine Learning Internship.
+
+Objective:
+Forecast future sales using historical business data.
+
+Tools Used:
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+Features:
+- Data preprocessing
+- Feature engineering
+- Sales forecasting
+- Performance evaluation
+- Business insights
+- Data visualization
+
+Business Value:
+The project helps businesses make better inventory and sales planning decisions.
