@@ -19,5 +19,16 @@ Features:
 - Business insights
 - Data visualization
 
-Business Value:
-The project helps businesses make better inventory and sales planning decisions.
+Evaluation Metrics:
+
+- MAE: 270.74
+- RMSE: 811.69
+- R² Score: 0.01
+
+Business Insights:
+
+- Sales vary across months.
+- Certain regions generate more revenue.
+- Product categories influence overall sales.
+- Sales forecasting can help inventory planning.
+- Businesses can use these insights to optimize operations.
